@@ -1,6 +1,6 @@
 # Inch & Brick Fitness Landing Page
 
-![Inch & Brick Banner](images/images.png)
+![Inch & Brick Banner](images/logo.png)
 
 A modern, responsive landing page for Inch & Brick fitness brand, featuring:
 - Hero section with call-to-action
