@@ -81,7 +81,7 @@
         
        .hero {
     background: linear-gradient(rgba(26, 46, 53, 0.8), rgba(26, 46, 53, 0.8)), 
-                url('../images//exm.jpg');
+                url('../images/fitness_image1.jpg');
     background-size: cover;
     background-position: center top; /* top part dikhane ke liye */
     background-repeat: no-repeat;
