@@ -10,7 +10,7 @@ A modern, responsive landing page for Inch & Brick fitness brand, featuring:
 - Mobile-responsive design
 
 ## 🚀 Live Demo
-[View Live Demo](https://tyagiharshit720.github.io/Inch-and-Brick-Landing/)
+[View Live Demo](https://tyagiharshit720.github.io/inch-and-brick-fitness/)
 
 ## ✨ Features
 - Clean, modern UI with custom animations
