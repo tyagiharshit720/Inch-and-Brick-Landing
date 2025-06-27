@@ -15,4 +15,4 @@ I used Bootstrap's navbar component and added custom media queries (referenced M
 - Integrate a backend for the contact form  
 
 **e. Next 3-month goal**  
-Master React.js and build interactive web apps.  
+To work on real-world front-end and full-stack projects, improve my React and JavaScript skills, contribute to live deployments, and build strong UI/UX fundamentals with pixel-perfect designs. 
